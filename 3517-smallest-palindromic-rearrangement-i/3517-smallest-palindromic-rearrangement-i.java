@@ -8,11 +8,11 @@ class Solution {
         }
 
         StringBuilder left = new StringBuilder();
-        char middle = '\0';
+        String middle = "";
 
         for (int i = 0; i < 26; i++) {
             if (frq[i] % 2 == 1) {
-                middle = (char)(i + 'a');
+                middle = String.valueOf((char)(i + 'a'));
             }
 
             for (int j = 0; j < frq[i] / 2; j++) {
@@ -22,10 +22,6 @@ class Solution {
 
         String right = new StringBuilder(left).reverse().toString();
 
-        if (middle != '\0') {
-            return left.toString() + middle + right;
-        }
-
-        return left.toString() + right;
+        return left.toString() + middle + right;
     }
 }
