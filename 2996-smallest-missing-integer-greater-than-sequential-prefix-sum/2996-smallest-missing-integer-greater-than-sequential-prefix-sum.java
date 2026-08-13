@@ -1,6 +1,7 @@
 class Solution {
     public int missingInteger(int[] nums) {
         int sum=nums[0];
+        HashSet<Integer> hs=new HashSet<>();
         if(nums.length==0){
             return nums[0]+1;
         }
@@ -11,13 +12,17 @@ class Solution {
             }
             sum+=nums[i];
         }
+
+        for(int i=0;i<nums.length;i++){
+            hs.add(nums[i]);
+        }
         Arrays.sort(nums);
 
         int ans=0;
         boolean found=false;
          int temp=sum;
         while(!found){
-            if(binarysearch(temp,nums)){
+            if(!hs.contains(temp)){
                 found=true;
                 return temp;
 
@@ -25,24 +30,5 @@ class Solution {
             temp++;
         }
         return ans;
-    }
-    public static boolean binarysearch(int temp,int nums[]){
-        int si=0;
-        int ei=nums.length-1;
-
-        while(si<=ei){
-            int mid=si+(ei-si)/2;
-
-            if(nums[mid]==temp){
-                return false;
-            }
-            else if(nums[mid]<temp){
-                si=mid+1;
-            }
-            else{
-                ei=mid-1;
-            }
-        }
-        return true;
     }
 }
