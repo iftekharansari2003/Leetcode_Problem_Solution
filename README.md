@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3731-find-missing-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Enumeration
