@@ -16,7 +16,6 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             hs.add(nums[i]);
         }
-        Arrays.sort(nums);
 
         int ans=0;
         boolean found=false;
