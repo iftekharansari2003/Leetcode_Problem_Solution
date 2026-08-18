@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Enumeration
