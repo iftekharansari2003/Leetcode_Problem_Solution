@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0661-image-smoother) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
