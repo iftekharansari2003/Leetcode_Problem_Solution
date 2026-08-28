@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0796-rotate-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
