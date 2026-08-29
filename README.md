@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0796-rotate-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
