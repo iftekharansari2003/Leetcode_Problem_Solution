@@ -1,8 +1,7 @@
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        int max[]=new int[nums.length];
         int min[]=new int[nums.length];
-        max[0]=nums[0];
+   
         min[nums.length-1]=nums[nums.length-1];
 
         int ans=-1;
