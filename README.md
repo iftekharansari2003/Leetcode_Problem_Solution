@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0661-image-smoother) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -115,10 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
