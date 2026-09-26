@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0661-image-smoother) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0796-rotate-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
