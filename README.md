@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -168,4 +169,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
