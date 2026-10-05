@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Counting Sort
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Enumeration
 |  |
 | ------- |
