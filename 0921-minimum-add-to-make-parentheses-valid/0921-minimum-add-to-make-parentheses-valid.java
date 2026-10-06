@@ -14,7 +14,6 @@ class Solution {
                 }
             }
         }
-        System.out.print("Count="+count+","+"size="+st.size());
         return count+st.size();
     }
 }
