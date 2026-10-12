@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0796-rotate-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
