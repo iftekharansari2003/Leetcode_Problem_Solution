@@ -1,15 +1,13 @@
 class Solution {
     public int sumCounts(List<Integer> nums) {
+        int n=nums.size();
         int ans=0;
-        for(int i=0;i<nums.size();i++){
-            int start=i;
-            for(int j=i;j<nums.size();j++){
-                int end=j;
-                HashSet<Integer>hs=new HashSet<>();
-                for(int k=start;k<=end;k++){
-                    hs.add(nums.get(k));
-                }
-                ans+=hs.size()*hs.size();
+        for(int i=0;i<n;i++){
+            HashSet<Integer> s = new HashSet<>();
+            for(int j=i;j<n;j++){
+                s.add(nums.get(j));
+                int len = s.size();
+                ans+=(len*len);
             }
         }
         return ans;
