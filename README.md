@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0896-monotonic-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
