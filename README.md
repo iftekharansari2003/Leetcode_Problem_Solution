@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3794-reverse-string-prefix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
