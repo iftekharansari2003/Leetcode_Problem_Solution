@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
+| [2553-separate-the-digits-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
