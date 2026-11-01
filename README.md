@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0661-image-smoother) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
