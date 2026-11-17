@@ -17,7 +17,6 @@ class Solution {
             if (count > 0) {
                 sb.append(curr);
             }
-
             s = sb.toString();
         }
 
