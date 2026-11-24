@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2396-strictly-palindromic-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2396-strictly-palindromic-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
