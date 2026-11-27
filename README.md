@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/iftekharansari2003/Leetcode_Problem_Solution/tree/master/3925-concatenate-array-with-reverse) |
